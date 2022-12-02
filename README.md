@@ -1,9 +1,9 @@
-# This is the beginner counter app; 
+# This is the beginner counter app 
 
-Hooks: useState;
+Hooks: useState; <br>
 Stylesheet: scss;
 
-<br>
+<hr>
 Nothing special just practicing.
 
 
